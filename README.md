@@ -1,2 +1,0 @@
-# SK-TTLES-BROWSER
-Browser
